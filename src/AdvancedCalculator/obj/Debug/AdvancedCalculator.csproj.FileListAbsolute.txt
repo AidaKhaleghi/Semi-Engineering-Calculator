@@ -1,0 +1,38 @@
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.Cache
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\Hadis\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.CalculatorForm.resources
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.CalculatorForm.resources
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+C:\Users\mohammad\Desktop\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.Cache
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csprojResolveAssemblyReference.cache
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.CalculatorForm.resources
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+F:\BahonarCourses\Data Structure\Assignment\96-97-1\P3\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.Cache
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.AssemblyReference.cache
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.SuggestedBindingRedirects.cache
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.CalculatorForm.resources
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.cache
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+E:\University\ساختمان داده\Aidakhaleghi99405091\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
